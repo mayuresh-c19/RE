@@ -4,7 +4,7 @@
 
 This application, developed in Android Studio using Java for the backend, provides a comprehensive solution for users to access various services. It includes functionalities like user authorization, location services through Google Maps API, and a UPI Payment Gateway for seamless transactions.
 
-## Features
+## Key Features
 
 - **User Authorization**: The application provides a secure user registration and login system. Users can create an account and use their credentials to access the application.
 
